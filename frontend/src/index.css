@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Roboto:wght@300&display=swap');
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Jua';
+  background: black;
+  overflow: hidden; 
+  color :white
+}
+
+canvas {
+  position: absolute;
+  top:0;
+  left:0;
+  z-index: -1;
+}
